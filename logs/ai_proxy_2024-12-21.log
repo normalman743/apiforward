@@ -1,0 +1,178 @@
+[2024-12-21 17:07:09] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 17:07:09] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 17:07:09] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 17:07:09] [ERROR] [ai_proxy] Request failed
+[2024-12-21 17:07:31] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 17:07:31] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 17:07:31] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 17:09:43] [ERROR] [ai_proxy] Request failed
+[2024-12-21 17:09:47] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 17:09:47] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 17:09:47] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 17:13:06] [ERROR] [ai_proxy] Request failed
+[2024-12-21 17:14:45] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 17:14:45] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 17:14:45] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 17:14:57] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 17:14:57] [INFO] [ai_proxy] Balance check passed
+[2024-12-21 17:14:57] [INFO] [ai_proxy] Processing request
+[2024-12-21 17:15:02] [WARNING] [ai_proxy] Request attempt failed
+[2024-12-21 17:15:16] [WARNING] [ai_proxy] Request attempt failed
+[2024-12-21 17:15:20] [WARNING] [ai_proxy] Request attempt failed
+[2024-12-21 17:15:20] [ERROR] [ai_proxy] Request failed
+[2024-12-21 17:16:34] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 17:16:34] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 17:16:34] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 17:16:34] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 17:16:34] [INFO] [ai_proxy] Balance check passed
+[2024-12-21 17:16:34] [INFO] [ai_proxy] Processing request
+[2024-12-21 17:16:35] [INFO] [ai_proxy] Processing billing
+[2024-12-21 17:16:35] [INFO] [ai_proxy] Starting balance deduction
+[2024-12-21 17:16:35] [INFO] [ai_proxy] Balance deducted successfully
+[2024-12-21 17:16:35] [ERROR] [ai_proxy] Request failed
+[2024-12-21 17:18:26] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 17:18:26] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 17:18:26] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 17:18:26] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 17:18:26] [INFO] [ai_proxy] Balance check passed
+[2024-12-21 17:18:26] [INFO] [ai_proxy] Processing request
+[2024-12-21 17:18:27] [INFO] [ai_proxy] Processing billing
+[2024-12-21 17:18:27] [INFO] [ai_proxy] Starting balance deduction
+[2024-12-21 17:18:27] [INFO] [ai_proxy] Balance deducted successfully
+[2024-12-21 17:18:27] [INFO] [ai_proxy] Request completed
+[2024-12-21 17:18:41] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 17:18:41] [ERROR] [ai_proxy] Model not found
+[2024-12-21 17:18:41] [ERROR] [ai_proxy] Request failed
+[2024-12-21 17:19:19] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 17:19:19] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 17:19:19] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 17:19:19] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 17:19:19] [INFO] [ai_proxy] Balance check passed
+[2024-12-21 17:19:19] [INFO] [ai_proxy] Processing request
+[2024-12-21 17:19:21] [INFO] [ai_proxy] Processing billing
+[2024-12-21 17:19:21] [INFO] [ai_proxy] Starting balance deduction
+[2024-12-21 17:19:21] [INFO] [ai_proxy] Balance deducted successfully
+[2024-12-21 17:19:21] [INFO] [ai_proxy] Request completed
+[2024-12-21 17:20:34] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 17:20:34] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 17:20:34] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 17:20:34] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 17:20:34] [WARNING] [ai_proxy] Insufficient balance
+[2024-12-21 17:20:34] [WARNING] [ai_proxy] Insufficient balance
+[2024-12-21 17:20:34] [WARNING] [ai_proxy] Insufficient balance for API key: sk-12123default
+[2024-12-21 17:20:34] [ERROR] [ai_proxy] Request failed
+[2024-12-21 17:20:50] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 17:20:50] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 17:20:50] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 17:20:50] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 17:20:50] [INFO] [ai_proxy] Balance check passed
+[2024-12-21 17:20:50] [INFO] [ai_proxy] Processing request
+[2024-12-21 17:20:51] [INFO] [ai_proxy] Processing billing
+[2024-12-21 17:20:51] [INFO] [ai_proxy] Starting balance deduction
+[2024-12-21 17:20:51] [INFO] [ai_proxy] Balance deducted successfully
+[2024-12-21 17:20:51] [INFO] [ai_proxy] Request completed
+[2024-12-21 17:20:55] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 17:20:55] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 17:20:55] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 17:20:55] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 17:20:55] [INFO] [ai_proxy] Balance check passed
+[2024-12-21 17:20:55] [INFO] [ai_proxy] Processing request
+[2024-12-21 17:20:56] [INFO] [ai_proxy] Processing billing
+[2024-12-21 17:20:56] [INFO] [ai_proxy] Starting balance deduction
+[2024-12-21 17:20:56] [INFO] [ai_proxy] Balance deducted successfully
+[2024-12-21 17:20:56] [INFO] [ai_proxy] Request completed
+[2024-12-21 18:31:14] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 18:31:14] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 18:31:14] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 18:31:14] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 18:31:14] [INFO] [ai_proxy] Balance check passed
+[2024-12-21 18:31:14] [INFO] [ai_proxy] Processing request
+[2024-12-21 18:31:15] [INFO] [ai_proxy] Processing billing
+[2024-12-21 18:31:15] [INFO] [ai_proxy] Starting balance deduction
+[2024-12-21 18:31:15] [INFO] [ai_proxy] Balance deducted successfully
+[2024-12-21 18:31:15] [INFO] [ai_proxy] Request completed
+[2024-12-21 18:44:23] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 18:44:32] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 18:44:32] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 18:44:41] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 18:44:41] [WARNING] [ai_proxy] Insufficient balance
+[2024-12-21 18:44:41] [WARNING] [ai_proxy] Insufficient balance
+[2024-12-21 18:44:41] [WARNING] [ai_proxy] Insufficient balance for API key: sk-12123default
+[2024-12-21 18:44:44] [ERROR] [ai_proxy] Request failed
+[2024-12-21 18:45:32] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 18:45:32] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 18:45:32] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 18:45:32] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 18:45:32] [WARNING] [ai_proxy] Insufficient balance
+[2024-12-21 18:45:32] [WARNING] [ai_proxy] Insufficient balance
+[2024-12-21 18:45:32] [WARNING] [ai_proxy] Insufficient balance for API key: sk-12123default
+[2024-12-21 18:45:32] [ERROR] [ai_proxy] Request failed
+[2024-12-21 18:47:13] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 18:47:13] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 18:47:13] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 18:47:13] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 18:47:13] [WARNING] [ai_proxy] Insufficient balance
+[2024-12-21 18:47:13] [WARNING] [ai_proxy] Insufficient balance
+[2024-12-21 18:47:13] [WARNING] [ai_proxy] Insufficient balance for API key: sk-12123default
+[2024-12-21 18:47:13] [ERROR] [ai_proxy] Request failed
+[2024-12-21 18:47:35] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 18:47:35] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 18:47:35] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 18:47:35] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 18:47:35] [WARNING] [ai_proxy] Insufficient balance
+[2024-12-21 18:47:35] [WARNING] [ai_proxy] Insufficient balance
+[2024-12-21 18:47:35] [WARNING] [ai_proxy] Insufficient balance for API key: sk-12123default
+[2024-12-21 18:47:35] [ERROR] [ai_proxy] Request failed
+[2024-12-21 18:47:46] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 18:47:46] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 18:47:46] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 18:47:46] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 18:47:46] [INFO] [ai_proxy] Balance check passed
+[2024-12-21 18:47:46] [INFO] [ai_proxy] Processing request
+[2024-12-21 18:47:53] [WARNING] [ai_proxy] Request attempt failed
+[2024-12-21 18:47:55] [INFO] [ai_proxy] Processing billing
+[2024-12-21 18:47:55] [INFO] [ai_proxy] Starting balance deduction
+[2024-12-21 18:47:55] [INFO] [ai_proxy] Balance deducted successfully
+[2024-12-21 18:47:55] [INFO] [ai_proxy] Request completed
+[2024-12-21 18:50:26] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 18:50:26] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 18:50:26] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 18:50:26] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 18:50:26] [INFO] [ai_proxy] Balance check passed
+[2024-12-21 18:50:26] [INFO] [ai_proxy] Processing request
+[2024-12-21 18:50:27] [WARNING] [ai_proxy] Request attempt failed
+[2024-12-21 18:50:37] [INFO] [ai_proxy] Processing billing
+[2024-12-21 18:50:37] [INFO] [ai_proxy] Starting balance deduction
+[2024-12-21 18:50:37] [INFO] [ai_proxy] Balance deducted successfully
+[2024-12-21 18:50:37] [INFO] [ai_proxy] Request completed
+[2024-12-21 19:23:07] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 19:23:07] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 19:23:07] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 19:23:07] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 19:23:07] [INFO] [ai_proxy] Balance check passed
+[2024-12-21 19:23:07] [INFO] [ai_proxy] Processing request
+[2024-12-21 19:23:09] [WARNING] [ai_proxy] Request attempt failed
+[2024-12-21 19:23:18] [INFO] [ai_proxy] Processing billing
+[2024-12-21 19:23:18] [INFO] [ai_proxy] Starting balance deduction
+[2024-12-21 19:23:18] [INFO] [ai_proxy] Balance deducted successfully
+[2024-12-21 19:23:18] [INFO] [ai_proxy] Request completed
+[2024-12-21 19:23:30] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 19:23:30] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 19:23:30] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 19:23:30] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 19:23:30] [INFO] [ai_proxy] Balance check passed
+[2024-12-21 19:23:30] [INFO] [ai_proxy] Processing request
+[2024-12-21 19:23:31] [WARNING] [ai_proxy] Request attempt failed
+[2024-12-21 19:23:32] [WARNING] [ai_proxy] Request attempt failed
+[2024-12-21 19:23:34] [WARNING] [ai_proxy] Request attempt failed
+[2024-12-21 19:23:34] [ERROR] [ai_proxy] Request failed
+[2024-12-21 19:23:42] [INFO] [ai_proxy] Starting request processing
+[2024-12-21 19:23:42] [INFO] [ai_proxy] Starting rate limit check
+[2024-12-21 19:23:42] [INFO] [ai_proxy] Rate limit check passed
+[2024-12-21 19:23:42] [INFO] [ai_proxy] Checking user balance
+[2024-12-21 19:23:42] [INFO] [ai_proxy] Balance check passed
+[2024-12-21 19:23:42] [INFO] [ai_proxy] Processing request
+[2024-12-21 19:23:44] [WARNING] [ai_proxy] Request attempt failed
+[2024-12-21 19:23:45] [WARNING] [ai_proxy] Request attempt failed
+[2024-12-21 19:23:47] [WARNING] [ai_proxy] Request attempt failed
+[2024-12-21 19:23:47] [ERROR] [ai_proxy] Request failed

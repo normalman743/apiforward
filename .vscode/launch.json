@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Run with Module",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "app.main",  // 使用模块方式运行
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"  // 确保工作目录是项目根目录
+        }
+    ]
+}

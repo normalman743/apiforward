@@ -1,0 +1,26 @@
+# requirements.txt
+
+# Web Framework
+fastapi>=0.100.0
+uvicorn>=0.22.0
+
+# Database
+motor>=3.1.1           # MongoDB异步驱动
+redis>=4.5.4           # Redis客户端
+
+# AI Providers
+openai>=1.14.0         # OpenAI官方客户端
+anthropic>=0.18.0      # Anthropic官方客户端
+httpx>=0.24.0          # 异步HTTP客户端，用于API调用
+
+# Utils
+python-dotenv>=1.0.0   # 环境变量管理
+pydantic>=2.0.0        # 数据验证
+pydantic-settings-2.7.0  # 配置管理
+rich>=13.3.5           # 日志美化
+prometheus-client>=0.17.0  # 监控指标
+
+# Testing
+pytest>=7.3.1
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0      # 测试覆盖率
